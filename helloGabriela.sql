@@ -1,5 +1,5 @@
 create or replace procedure helloGabriela is
-begin
+begin -- YO !
    -- Now it is getting messy ! BLAH
    htp.p ('Hello Gabriela');
    dbms_output.put_line('Hello Gabriela');
